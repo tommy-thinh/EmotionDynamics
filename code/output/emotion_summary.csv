@@ -1,0 +1,11 @@
+emotion,total_token_count,unique_token_count
+anger,4,4
+anticipation,7,6
+disgust,2,2
+fear,2,2
+joy,13,8
+negative,7,7
+positive,26,18
+sadness,9,5
+surprise,4,4
+trust,7,6
