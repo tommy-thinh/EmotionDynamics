@@ -2,14 +2,7 @@ import os
 import re
 import pandas as pd
 from collections import Counter
-import sys
-from argparse import ArgumentParser
 import unicodedata
-
-parser = ArgumentParser()
-parser.add_argument('--textPath', help='path to input text file', required=True)
-parser.add_argument('--lexPath', help='path to lexicon file (single column with words)', required=True)
-parser.add_argument('--savePath', help='path to save output CSV file', required=True)
 
 def count_token_frequencies(textPath, lexPath, savePath):
     # Read the lexicon
@@ -42,5 +35,12 @@ def count_token_frequencies(textPath, lexPath, savePath):
     print(f"Token frequencies saved to {output_file}")
 
 if __name__ == '__main__':
-    args = parser.parse_args()
-    count_token_frequencies(args.textPath, args.lexPath, args.savePath)
+    # Get the directory of the current Python file
+    base_dir = os.path.dirname(__file__)
+
+    # Relative paths based on the script's directory
+    textPath = os.path.join(base_dir, 'input', 'input.txt')  # Relative path to input text file
+    lexPath = os.path.join(base_dir, 'lexicons', 'NRC-VAD-Lexicon-v2.1.csv')  # Relative path to lexicon file
+    savePath = os.path.join(base_dir, 'output')  # Relative path to save output CSV file
+
+    count_token_frequencies(textPath, lexPath, savePath)
