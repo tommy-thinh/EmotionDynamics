@@ -1,0 +1,204 @@
+﻿phrase,emotion,frequency
+thuê,anticipation,2
+thuê,joy,2
+thuê,positive,2
+thuê,trust,2
+rẻ,negative,1
+đến,anticipation,6
+khó,negative,1
+khó,sadness,1
+tin,trust,2
+nằm,anger,1
+nằm,disgust,1
+nằm,negative,1
+sâu,anticipation,1
+sâu,negative,1
+sâu,surprise,1
+sáng,anticipation,3
+sáng,joy,3
+sáng,positive,3
+lạnh,negative,3
+mùi,negative,4
+cho,positive,1
+cho,trust,1
+từ,positive,9
+từ,trust,9
+nhịp,positive,1
+nứt,anger,5
+nứt,fear,5
+nứt,negative,5
+mềm,joy,2
+mềm,positive,2
+mềm,trust,2
+bò,disgust,3
+bò,negative,3
+cũ,negative,2
+mất,anger,2
+mất,disgust,2
+mất,fear,2
+mất,negative,2
+mất,sadness,2
+mất,surprise,2
+tìm,joy,1
+tìm,positive,1
+tìm,trust,1
+dính,disgust,2
+thịt,disgust,4
+tối,sadness,2
+đúng,positive,1
+đập,anger,3
+đập,anticipation,3
+đập,negative,3
+gai,fear,1
+gai,negative,1
+pin,anger,3
+pin,negative,3
+mảng,positive,1
+đen,disgust,5
+đen,negative,5
+chết,fear,2
+chết,negative,2
+chết,sadness,2
+mũi,disgust,1
+xám,disgust,1
+xám,sadness,1
+dài,anticipation,2
+lệch,anger,1
+lệch,anticipation,1
+lệch,negative,1
+đầy,fear,1
+đầy,negative,1
+đầy,positive,1
+đầy,sadness,1
+quá,anticipation,1
+quá,joy,1
+quá,positive,1
+miệng,surprise,3
+phân,disgust,1
+phân,negative,1
+hàm,fear,1
+vàng,positive,1
+kêu,negative,1
+kêu,positive,1
+kêu,trust,1
+kèn,negative,1
+kèn,surprise,1
+chân,fear,3
+nhận,anticipation,1
+nhận,joy,1
+nhận,positive,1
+nhận,surprise,1
+đỉa,disgust,1
+đỉa,fear,1
+đỉa,negative,1
+bóng,positive,2
+chặt,negative,1
+hút,anticipation,1
+hút,negative,1
+cơn,anger,1
+cơn,negative,1
+điên,anger,1
+điên,disgust,1
+điên,fear,1
+điên,negative,1
+điên,sadness,1
+rút,negative,1
+rút,sadness,1
+run,fear,1
+run,negative,1
+đồ,fear,1
+đồ,negative,1
+bỏ,anger,1
+bỏ,negative,1
+khóc,negative,1
+khóc,sadness,1
+cười,joy,1
+cười,positive,1
+cười,surprise,1
+tò mò,positive,1
+ánh sáng,anticipation,2
+ánh sáng,joy,2
+ánh sáng,positive,2
+ánh sáng,trust,2
+u ám,negative,1
+u ám,sadness,1
+bất thường,fear,1
+bất thường,negative,1
+im lặng,positive,1
+im lặng,sadness,1
+đều đặn,anticipation,1
+đều đặn,positive,1
+đều đặn,trust,1
+âm thanh,anticipation,2
+âm thanh,joy,2
+âm thanh,positive,2
+âm thanh,trust,2
+rõ ràng,positive,1
+rõ ràng,trust,1
+xi măng,anticipation,3
+xi măng,trust,3
+mềm nhũn,disgust,1
+mềm nhũn,negative,1
+mềm nhũn,sadness,1
+nhầy nhụa,disgust,1
+nhầy nhụa,negative,1
+buồn nôn,disgust,1
+buồn nôn,negative,1
+buồn nôn,sadness,1
+biến mất,fear,1
+biến mất,negative,1
+biến mất,sadness,1
+biến mất,surprise,1
+thối rữa,disgust,1
+thối rữa,fear,1
+thối rữa,negative,1
+thối rữa,sadness,1
+đập mạnh,anger,1
+đập mạnh,fear,1
+đập mạnh,negative,1
+đập mạnh,sadness,1
+rạn nứt,negative,1
+ghê tởm,anger,1
+ghê tởm,disgust,1
+ghê tởm,fear,1
+ghê tởm,negative,1
+ghê tởm,sadness,1
+rách nát,negative,1
+rách nát,sadness,1
+phân hủy,disgust,1
+phân hủy,fear,1
+phân hủy,negative,1
+phân hủy,sadness,1
+nhọn hoắt,positive,1
+hỗn loạn,anger,1
+hỗn loạn,fear,1
+hỗn loạn,negative,1
+hỗn loạn,sadness,1
+con đỉa,negative,1
+cánh tay,anger,1
+cánh tay,anticipation,1
+bắp chân,joy,1
+bắp chân,positive,1
+bắp chân,trust,1
+hoảng loạn,fear,1
+hoảng loạn,negative,1
+chói tai,anger,1
+chói tai,fear,1
+chói tai,negative,1
+chói tai,sadness,1
+chói tai,surprise,1
+bóng tối,anger,1
+bóng tối,fear,1
+bóng tối,negative,1
+bóng tối,sadness,1
+run rẩy,fear,1
+run rẩy,negative,1
+vợ chồng,joy,1
+vợ chồng,positive,1
+vợ chồng,trust,1
+tiếng cười,anticipation,1
+tiếng cười,joy,1
+tiếng cười,positive,1
+tiếng cười,surprise,1
+tiếng đập mạnh,anger,1
+tiếng đập mạnh,negative,1
